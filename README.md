@@ -70,7 +70,7 @@ Here are the rules to create incentives for everyone (some of which were mention
  1. There are about ~20 angels with 25000 `EXP`s each to invest. This is the new jury.
  1. The project wallets are owned by Pixels Camp and not by the team that created the project.
  1. All the `EXP`s invested in the projects during the event will stay in their wallets, locked, and can't be used until the end. Think of your project as a crowdfunding campaign.
- 1. By the end of the project presentations (30 minutes later) we will take a full snapshop of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
+ 1. By the end of the project presentations (30 minutes later) we will take a full snapshot of the Blockchain and run our scripts on it. The block number used to calculate the final results will be made public.
  1. The 10 projects with more `EXP` invested on them by then, will win the Pixels Camp hackathon and get the prizes.
  1. The `EXP`s invested in all the projects will be part of a `big pot` controlled by the organization.
  1. The `big pot` is then divided by the 10 winning projects, in the proportion their funds at count time. For example, if the project 1 had 10x more funds than project 2, then it will receive 10x more from the big pot. Each of the 10 winning projects ends up with a `winning pot`.
