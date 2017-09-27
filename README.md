@@ -162,5 +162,5 @@ If you want to know more about Ethereum, we suggest you start here:
 [44]: https://github.com/PixelsCamp/moon/tree/master/examples
 [101]: https://ethereum.org/
 [102]: https://ethereum.org/ether
-[103]: http://consensys.github.io/developers/articles/101-noob-intro/
+[103]: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
 [104]: https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial
